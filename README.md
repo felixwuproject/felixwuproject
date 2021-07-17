@@ -1,10 +1,9 @@
 <!-- Your title -->
-## Hello, Felix Wu
+## Hello, I am Felix Wu
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/felixwuproject)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felix-wu-961330180/)
 
-&nbsp;
 
 <!-- Talking about you -->
 **About Me:**
